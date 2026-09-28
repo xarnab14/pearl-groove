@@ -1,0 +1,6 @@
+{
+  "name": "Pearl & Groove Bakery",
+  "description": "London bakery specialising in 100% gluten-free celebration cakes, mini loaves, wedding cakes, and corporate catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
